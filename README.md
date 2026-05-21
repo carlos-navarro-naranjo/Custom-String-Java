@@ -1,7 +1,9 @@
 # Custom-String-Java
 A Java project that implements a customizable string manipulation class with advanced text-processing methods such as character removal, capitalization reversal, and alphabetical filtering, along with comprehensive JUnit test cases.
 # Custom String Java Project
+## Screenshot
 
+![Java Project Screenshot](java.png)
 ## Overview
 This project implements a customizable `CustomString` class in Java that provides advanced string manipulation operations beyond the standard Java `String` class.
 
